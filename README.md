@@ -1,6 +1,6 @@
 # Tutorial sobre paginação com Spring Data  
 
-Esse projeto foi elaborado [nesse vídeo]() que apresenta um tutorial sobre como criar um serviço web com paginação usando Spring Data.
+Esse projeto foi elaborado [nesse vídeo](https://youtu.be/Jrhb5YJK5II) que apresenta um tutorial sobre como criar um serviço web com paginação usando Spring Data.
 
 ## O que será construído
 
@@ -18,4 +18,4 @@ Um serviço web para um sistema de rede social, o GBook, que lista posts dos usu
 
 ## Referências
 
-- [Vídeo do Youtube]()
+- [Vídeo do Youtube](https://youtu.be/Jrhb5YJK5II)
